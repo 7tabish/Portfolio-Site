@@ -7,7 +7,7 @@ const Experience = () => {
         <ExperienceContainer>
             <JobTitle>Software Engineer</JobTitle>
             <CompanyName>Allied Bank Limited</CompanyName>
-            <Date>June 2021 - Present</Date>
+            <Date>June 2021 - Present.</Date>
             {/* <JobDesc><ul>
                 <li>Build reusable react code for future use.</li>
                 <li>Integrate REST APIs</li>
